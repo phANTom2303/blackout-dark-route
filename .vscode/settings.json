@@ -17,6 +17,10 @@
 
     "workbench.statusBar.visible": false,
 
+    "github.copilot.enable": {
+        "*": false
+    },
+
     "editor.renderLineHighlight": "all",
     "editor.renderLineHighlightOnlyWhenFocus": false,
 
