@@ -18,8 +18,20 @@
     "workbench.statusBar.visible": false,
 
     "github.copilot.enable": {
-        "*": false
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "cpp": false,
+        "jsonc": false
     },
+    "github.copilot.editor.enableAutoCompletions": false,
+    "chat.editor.wordWrap": "off",
+    "inlineChat.enabled": false,
+    
+    "extensions.ignoreRecommendations": true,
+    "github.copilot.advanced": {},
+    "github.copilot.chat.enabled": false,
 
     "editor.renderLineHighlight": "all",
     "editor.renderLineHighlightOnlyWhenFocus": false,
